@@ -1,4 +1,4 @@
-# A Crowded Room: What if you shared a room with all the journalists imprisoned in 2022? :rolled_up_newspaper::lock:
+# A Crowded Room: What if you shared a room with all the journalists imprisoned in 2022? :newspaper::lock:
 Project 3, Lede Program 2023
 
 This repository has a dataset and HTML code for my third project in the Lede Program for Data Journalism at Columbia University.
