@@ -8,10 +8,10 @@ I attempted to develop a new and impactful visualization using the <b>Committee 
 
 [Access the project](https://sinderskir.github.io/crowded-room/ "A Crowded Room").
 
-# Data
+## Data
 All the data used in the project comes from the monitoring carried out by CPJ. You can access the database [here](https://cpj.org/data/imprisoned/2022/?status=Imprisoned&start_year=2022&end_year=2022&group_by=location).
 
-# Challenges and new skills
+## Challenges and new skills
 As it is a visualization project, my main challenges were related to using D3.js to create and activate tooltips on the map. It took me a while to understand how to do it, and I still don't know how to prevent some countries from overlapping with them—this is a work in progress.
 
 During the project, I improved my abilities to use Adobe Illustrator to create interesting data visualizations, learned more about AI2HTML, CSS, and D3.js.
